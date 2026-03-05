@@ -1,0 +1,334 @@
+[preload] loading 76 graphs...
+[preload] gid=0 size=0.1MB path=/home/yfdai/asap/data/aag/wb_dma.aag
+[preload] gid=0 done in 0.31s | nodes=7415 edges=10193
+[preload] gid=1 size=0.8MB path=/home/yfdai/asap/data/aag/wb_conmax.aag
+[preload] gid=1 done in 4.01s | nodes=78991 edges=123585
+[preload] gid=2 size=0.2MB path=/home/yfdai/asap/data/aag/voter.aag
+[preload] gid=2 done in 1.27s | nodes=27722 edges=40479
+[preload] gid=3 size=1.0MB path=/home/yfdai/asap/data/aag/vga_lcd.aag
+[preload] gid=3 done in 17.05s | nodes=124845 edges=162243
+[preload] gid=4 size=0.0MB path=/home/yfdai/asap/data/aag/usb_phy.aag
+[preload] gid=4 done in 0.05s | nodes=699 edges=901
+[preload] gid=5 size=0.2MB path=/home/yfdai/asap/data/aag/tv80.aag
+[preload] gid=5 done in 0.64s | nodes=17307 edges=27024
+[preload] gid=6 size=0.0MB path=/home/yfdai/asap/data/aag/stereovision3.aag
+[preload] gid=6 done in 0.04s | nodes=1078 edges=1674
+[preload] gid=7 size=6.1MB path=/home/yfdai/asap/data/aag/stereovision2.aag
+[preload] gid=7 done in 63.37s | nodes=627229 edges=930178
+[preload] gid=8 size=2.2MB path=/home/yfdai/asap/data/aag/stereovision1.aag
+[preload] gid=8 done in 20.73s | nodes=242064 edges=350901
+[preload] gid=9 size=0.5MB path=/home/yfdai/asap/data/aag/stereovision0.aag
+[preload] gid=9 done in 3.59s | nodes=61367 edges=82942
+[preload] gid=10 size=0.0MB path=/home/yfdai/asap/data/aag/ss_pcm.aag
+[preload] gid=10 done in 0.02s | nodes=342 edges=387
+[preload] gid=11 size=0.3MB path=/home/yfdai/asap/data/aag/square.aag
+[preload] gid=11 done in 1.18s | nodes=35754 edges=54174
+[preload] gid=12 size=0.4MB path=/home/yfdai/asap/data/aag/sqrt.aag
+[preload] gid=12 done in 1.52s | nodes=41176 edges=65666
+[preload] gid=13 size=0.1MB path=/home/yfdai/asap/data/aag/spree.aag
+[preload] gid=13 done in 0.37s | nodes=9288 edges=13800
+[preload] gid=14 size=0.0MB path=/home/yfdai/asap/data/aag/spi.aag
+[preload] gid=14 done in 0.18s | nodes=5900 edges=8597
+[preload] gid=15 size=0.1MB path=/home/yfdai/asap/data/aag/sin.aag
+[preload] gid=15 done in 0.33s | nodes=9009 edges=14401
+[preload] gid=16 size=0.0MB path=/home/yfdai/asap/data/aag/simple_spi.aag
+[preload] gid=16 done in 0.04s | nodes=1262 edges=1696
+[preload] gid=17 size=0.2MB path=/home/yfdai/asap/data/aag/sha256.aag
+[preload] gid=17 done in 1.15s | nodes=27115 edges=38445
+[preload] gid=18 size=0.1MB path=/home/yfdai/asap/data/aag/sha.aag
+[preload] gid=18 done in 0.66s | nodes=16969 edges=24173
+[preload] gid=19 size=0.0MB path=/home/yfdai/asap/data/aag/sasc.aag
+[preload] gid=19 done in 0.03s | nodes=780 edges=977
+[preload] gid=20 size=0.0MB path=/home/yfdai/asap/data/aag/s9234.aag
+[preload] gid=20 done in 0.07s | nodes=2129 edges=3035
+[preload] gid=21 size=0.0MB path=/home/yfdai/asap/data/aag/s713.aag
+[preload] gid=21 done in 0.01s | nodes=327 edges=437
+[preload] gid=22 size=0.0MB path=/home/yfdai/asap/data/aag/s641.aag
+[preload] gid=22 done in 0.01s | nodes=309 edges=405
+[preload] gid=23 size=0.0MB path=/home/yfdai/asap/data/aag/s5378.aag
+[preload] gid=23 done in 0.08s | nodes=2606 edges=3751
+[preload] gid=24 size=0.0MB path=/home/yfdai/asap/data/aag/s420.aag
+[preload] gid=24 done in 0.01s | nodes=304 edges=430
+[preload] gid=25 size=0.2MB path=/home/yfdai/asap/data/aag/s38584.aag
+[preload] gid=25 done in 1.07s | nodes=25326 edges=36020
+[preload] gid=26 size=0.1MB path=/home/yfdai/asap/data/aag/s38417.aag
+[preload] gid=26 done in 0.76s | nodes=18934 edges=26579
+[preload] gid=27 size=0.0MB path=/home/yfdai/asap/data/aag/s382.aag
+[preload] gid=27 done in 0.02s | nodes=264 edges=384
+[preload] gid=28 size=0.2MB path=/home/yfdai/asap/data/aag/s35932.aag
+[preload] gid=28 done in 1.11s | nodes=25990 edges=36175
+[preload] gid=29 size=0.0MB path=/home/yfdai/asap/data/aag/s27.aag
+[preload] gid=29 done in 0.01s | nodes=30 edges=31
+[preload] gid=30 size=0.1MB path=/home/yfdai/asap/data/aag/s15850.aag
+[preload] gid=30 done in 0.29s | nodes=7404 edges=10345
+[preload] gid=31 size=0.0MB path=/home/yfdai/asap/data/aag/s1488.aag
+[preload] gid=31 done in 0.05s | nodes=1215 edges=1864
+[preload] gid=32 size=0.0MB path=/home/yfdai/asap/data/aag/s1423.aag
+[preload] gid=32 done in 0.03s | nodes=1013 edges=1386
+[preload] gid=33 size=0.0MB path=/home/yfdai/asap/data/aag/s13207.aag
+[preload] gid=33 done in 0.17s | nodes=5523 edges=7629
+[preload] gid=34 size=0.0MB path=/home/yfdai/asap/data/aag/s1238.aag
+[preload] gid=34 done in 0.03s | nodes=987 edges=1488
+[preload] gid=35 size=0.0MB path=/home/yfdai/asap/data/aag/router.aag
+[preload] gid=35 done in 0.02s | nodes=522 edges=719
+[preload] gid=36 size=0.5MB path=/home/yfdai/asap/data/aag/raygentop.aag
+[preload] gid=36 done in 2.79s | nodes=63749 edges=94245
+[preload] gid=37 size=0.0MB path=/home/yfdai/asap/data/aag/priority.aag
+[preload] gid=37 done in 0.16s | nodes=2051 edges=2901
+[preload] gid=38 size=0.9MB path=/home/yfdai/asap/data/aag/picosoc.aag
+[preload] gid=38 done in 10.61s | nodes=106763 edges=144687
+[preload] gid=39 size=0.2MB path=/home/yfdai/asap/data/aag/pci.aag
+[preload] gid=39 done in 1.20s | nodes=23641 edges=31074
+[preload] gid=40 size=0.4MB path=/home/yfdai/asap/data/aag/or1200.aag
+[preload] gid=40 done in 2.03s | nodes=47604 edges=70685
+[preload] gid=41 size=0.4MB path=/home/yfdai/asap/data/aag/multiplier.aag
+[preload] gid=41 done in 1.91s | nodes=50760 edges=77694
+[preload] gid=42 size=0.1MB path=/home/yfdai/asap/data/aag/mkSMAdapter4B.aag
+[preload] gid=42 done in 0.52s | nodes=14796 edges=21069
+[preload] gid=43 size=0.0MB path=/home/yfdai/asap/data/aag/mkPktMerge.aag
+[preload] gid=43 done in 0.07s | nodes=2050 edges=2494
+[preload] gid=44 size=0.3MB path=/home/yfdai/asap/data/aag/mkDelayWorker32B.aag
+[preload] gid=44 done in 2.07s | nodes=39877 edges=56390
+[preload] gid=45 size=0.8MB path=/home/yfdai/asap/data/aag/mem.aag
+[preload] gid=45 done in 3.86s | nodes=85738 edges=131546
+[preload] gid=46 size=12.9MB path=/home/yfdai/asap/data/aag/mcml.aag
+[preload] gid=46 done in 161.09s | nodes=1213844 edges=1828840
+[preload] gid=47 size=0.0MB path=/home/yfdai/asap/data/aag/max.aag
+[preload] gid=47 done in 0.57s | nodes=6409 edges=8762
+[preload] gid=48 size=3.8MB path=/home/yfdai/asap/data/aag/LU8PEEng.aag
+[preload] gid=48 done in 19.94s | nodes=332880 edges=527113
+[preload] gid=49 size=0.5MB path=/home/yfdai/asap/data/aag/log2.aag
+[preload] gid=49 done in 2.14s | nodes=54558 edges=86586
+[preload] gid=50 size=1.9MB path=/home/yfdai/asap/data/aag/jpeg.aag
+[preload] gid=50 done in 13.65s | nodes=217221 edges=317629
+[preload] gid=51 size=0.0MB path=/home/yfdai/asap/data/aag/int2float.aag
+[preload] gid=51 done in 0.06s | nodes=465 edges=714
+[preload] gid=52 size=0.1MB path=/home/yfdai/asap/data/aag/iir.aag
+[preload] gid=52 done in 0.56s | nodes=15852 edges=23049
+[preload] gid=53 size=2.9MB path=/home/yfdai/asap/data/aag/idft.aag
+[preload] gid=53 done in 79.88s | nodes=321250 edges=430398
+[preload] gid=54 size=0.0MB path=/home/yfdai/asap/data/aag/i2c.aag
+[preload] gid=54 done in 0.14s | nodes=2505 edges=3711
+[preload] gid=55 size=4.0MB path=/home/yfdai/asap/data/aag/hyp.aag
+[preload] gid=55 done in 17.31s | nodes=420897 edges=634976
+[preload] gid=56 size=0.5MB path=/home/yfdai/asap/data/aag/fpu.aag
+[preload] gid=56 done in 2.68s | nodes=62996 edges=95400
+[preload] gid=57 size=0.1MB path=/home/yfdai/asap/data/aag/fir.aag
+[preload] gid=57 done in 0.35s | nodes=10588 edges=15225
+[preload] gid=58 size=0.7MB path=/home/yfdai/asap/data/aag/ethernet.aag
+[preload] gid=58 done in 7.87s | nodes=83472 edges=110025
+[preload] gid=59 size=0.2MB path=/home/yfdai/asap/data/aag/dynamic_node.aag
+[preload] gid=59 done in 1.21s | nodes=23920 edges=33313
+[preload] gid=60 size=1.0MB path=/home/yfdai/asap/data/aag/div.aag
+[preload] gid=60 done in 3.96s | nodes=102082 edges=159201
+[preload] gid=61 size=2.9MB path=/home/yfdai/asap/data/aag/dft.aag
+[preload] gid=61 done in 83.55s | nodes=329173 edges=442294
+[preload] gid=62 size=0.1MB path=/home/yfdai/asap/data/aag/des3_area.aag
+[preload] gid=62 done in 0.36s | nodes=8765 edges=13391
+[preload] gid=63 size=0.0MB path=/home/yfdai/asap/data/aag/dec.aag
+[preload] gid=63 done in 0.03s | nodes=576 edges=872
+[preload] gid=64 size=0.0MB path=/home/yfdai/asap/data/aag/ctrl.aag
+[preload] gid=64 done in 0.01s | nodes=353 edges=520
+[preload] gid=65 size=0.0MB path=/home/yfdai/asap/data/aag/cavlc.aag
+[preload] gid=65 done in 0.05s | nodes=1309 edges=1992
+[preload] gid=66 size=0.1MB path=/home/yfdai/asap/data/aag/boundtop.aag
+[preload] gid=66 done in 0.71s | nodes=16641 edges=23739
+[preload] gid=67 size=0.7MB path=/home/yfdai/asap/data/aag/blob_merge.aag
+[preload] gid=67 done in 3.05s | nodes=75265 edges=116643
+[preload] gid=68 size=3.9MB path=/home/yfdai/asap/data/aag/bgm.aag
+[preload] gid=68 done in 25.47s | nodes=353620 edges=555260
+[preload] gid=69 size=0.0MB path=/home/yfdai/asap/data/aag/bar.aag
+[preload] gid=69 done in 0.26s | nodes=5910 edges=9111
+[preload] gid=70 size=0.2MB path=/home/yfdai/asap/data/aag/arbiter.aag
+[preload] gid=70 done in 0.73s | nodes=23617 edges=35200
+[preload] gid=71 size=0.6MB path=/home/yfdai/asap/data/aag/aes_xcrypt.aag
+[preload] gid=71 done in 3.49s | nodes=74204 edges=109136
+[preload] gid=72 size=0.5MB path=/home/yfdai/asap/data/aag/aes_secworks.aag
+[preload] gid=72 done in 2.87s | nodes=50782 edges=76438
+[preload] gid=73 size=0.6MB path=/home/yfdai/asap/data/aag/aes.aag
+[preload] gid=73 done in 2.75s | nodes=54117 edges=87159
+[preload] gid=74 size=0.0MB path=/home/yfdai/asap/data/aag/adder.aag
+[preload] gid=74 done in 0.08s | nodes=2555 edges=3319
+[preload] gid=75 size=0.1MB path=/home/yfdai/asap/data/aag/ac97_ctrl.aag
+[preload] gid=75 done in 0.64s | nodes=15231 edges=19593
+
+[INFO] Computing label statistics from train_ds ONLY ...
+LabelNormalizer stats (2 labels, 33381 samples):
+  transform: log1p enabled labels = ['area', 'delay']
+      area: use_log1p=True mean=    5.328336  std=    2.110943  min=    0.476234  max=    9.670816
+     delay: use_log1p=True mean=    5.653901  std=    1.377698  min=    3.653770  max=   11.986296
+[LabelNormalizer] Saved to ./ckpt/label_normalizer_vtr_abcd_epfl_iscas_area_delay.json
+
+[INFO] Computing quantile bin boundaries from train_ds ONLY ...
+[INFO] Quantile bins computed: num_bins=8
+  area: boundaries=['12.3900', '33.2200', '113.1500', '282.7700', '474.9700', '1213.9900', '2005.8300']
+    bin_0: count=4175 (12.5%)
+    bin_1: count=4174 (12.5%)
+    bin_2: count=4169 (12.5%)
+    bin_3: count=4173 (12.5%)
+    bin_4: count=4176 (12.5%)
+    bin_5: count=4169 (12.5%)
+    bin_6: count=4172 (12.5%)
+    bin_7: count=4173 (12.5%)
+  delay: boundaries=['92.2300', '123.5300', '147.2500', '197.4500', '250.6300', '404.9900', '1298.6900']
+    bin_0: count=4205 (12.6%)
+    bin_1: count=4168 (12.5%)
+    bin_2: count=4156 (12.5%)
+    bin_3: count=4162 (12.5%)
+    bin_4: count=4187 (12.5%)
+    bin_5: count=4158 (12.5%)
+    bin_6: count=4172 (12.5%)
+    bin_7: count=4173 (12.5%)
+[INFO] Quantile bin manager saved to ./ckpt/quantile_bins_vtr_abcd_epfl_iscas_area_delay.json
+
+======================================================================
+[INFO] split_mode=within_circuit
+[INFO] tasks=['area', 'delay']
+[INFO] max_epochs=5000, early_stop_patience=20 (avg R2)
+[INFO] use_label_normalization=True
+[INFO] use_quantile_bins=True, num_bins=8, ce_alpha=1.0
+[INFO] DDP=False world_size=1
+[INFO] batch_size=2 accum_steps=1 (eff_batch=2)
+[INFO] use_oom_fallback=True (dynamic batch size)
+======================================================================
+
+[Epoch 0001] train_loss(norm)=3.700169  avgR2(train+val)/2=0.253802
+  TRAIN mse=100041176.000000 R2_mean=0.2536 | area=0.4025 delay=0.1047 MAPE_mean=95.91% | area=129.97% delay=61.84%
+  VAL   mse=98973320.000000 R2_mean=0.2540 | area=0.4029 delay=0.1051 MAPE_mean=95.75% | area=130.15% delay=61.35%
+  -> save best: ./ckpt/best_r2_vtr_abcd_epfl_iscas_area_delay.pt (best_avgR2=0.253802)
+[Epoch 0002] train_loss(norm)=6.872111  avgR2(train+val)/2=0.316080
+  TRAIN mse=109994888.000000 R2_mean=0.3117 | area=0.6158 delay=0.0075 MAPE_mean=33.72% | area=37.54% delay=29.90%
+  VAL   mse=108737680.000000 R2_mean=0.3205 | area=0.6332 delay=0.0078 MAPE_mean=33.54% | area=37.35% delay=29.73%
+  -> save best: ./ckpt/best_r2_vtr_abcd_epfl_iscas_area_delay.pt (best_avgR2=0.316080)
+[Epoch 0003] train_loss(norm)=1.086275  avgR2(train+val)/2=0.449552
+  TRAIN mse=66984376.000000 R2_mean=0.4549 | area=0.5064 delay=0.4033 MAPE_mean=26.55% | area=30.63% delay=22.48%
+  VAL   mse=67510984.000000 R2_mean=0.4442 | area=0.4959 delay=0.3926 MAPE_mean=26.66% | area=30.78% delay=22.54%
+  -> save best: ./ckpt/best_r2_vtr_abcd_epfl_iscas_area_delay.pt (best_avgR2=0.449552)
+[Epoch 0004] train_loss(norm)=2.210993  avgR2(train+val)/2=-0.388662
+  TRAIN mse=265049392.000000 R2_mean=-0.3809 | area=0.6467 delay=-1.4085 MAPE_mean=35.27% | area=19.21% delay=51.33%
+  VAL   mse=265749952.000000 R2_mean=-0.3964 | area=0.6491 delay=-1.4419 MAPE_mean=34.93% | area=19.10% delay=50.76%
+[Epoch 0005] train_loss(norm)=1.235407  avgR2(train+val)/2=0.828275
+  TRAIN mse=11155289.000000 R2_mean=0.8325 | area=0.7596 delay=0.9053 MAPE_mean=35.47% | area=29.84% delay=41.10%
+  VAL   mse=11133317.000000 R2_mean=0.8241 | area=0.7430 delay=0.9052 MAPE_mean=35.77% | area=29.86% delay=41.68%
+  -> save best: ./ckpt/best_r2_vtr_abcd_epfl_iscas_area_delay.pt (best_avgR2=0.828275)
+[Epoch 0006] train_loss(norm)=0.914643  avgR2(train+val)/2=-0.517617
+  TRAIN mse=306894208.000000 R2_mean=-0.5090 | area=0.7763 delay=-1.7943 MAPE_mean=290.35% | area=48.09% delay=532.61%
+  VAL   mse=305463616.000000 R2_mean=-0.5262 | area=0.7594 delay=-1.8118 MAPE_mean=291.76% | area=48.49% delay=535.04%
+[Epoch 0007] train_loss(norm)=0.829934  avgR2(train+val)/2=-0.234444
+  TRAIN mse=247536896.000000 R2_mean=-0.2272 | area=0.7989 delay=-1.2532 MAPE_mean=25.76% | area=30.48% delay=21.05%
+  VAL   mse=248214400.000000 R2_mean=-0.2417 | area=0.8013 delay=-1.2847 MAPE_mean=25.95% | area=30.64% delay=21.27%
+[Epoch 0008] train_loss(norm)=0.921980  avgR2(train+val)/2=0.535990
+  TRAIN mse=79097736.000000 R2_mean=0.5404 | area=0.7966 delay=0.2841 MAPE_mean=28.90% | area=37.69% delay=20.11%
+  VAL   mse=78225496.000000 R2_mean=0.5316 | area=0.7783 delay=0.2849 MAPE_mean=28.95% | area=37.63% delay=20.27%
+[Epoch 0009] train_loss(norm)=0.775833  avgR2(train+val)/2=0.901804
+  TRAIN mse=12757714.000000 R2_mean=0.9023 | area=0.9186 delay=0.8860 MAPE_mean=40.27% | area=13.87% delay=66.68%
+  VAL   mse=12627816.000000 R2_mean=0.9013 | area=0.9166 delay=0.8860 MAPE_mean=40.09% | area=13.78% delay=66.40%
+  -> save best: ./ckpt/best_r2_vtr_abcd_epfl_iscas_area_delay.pt (best_avgR2=0.901804)
+[Epoch 0010] train_loss(norm)=3.272472  avgR2(train+val)/2=0.867448
+  TRAIN mse=11160494.000000 R2_mean=0.8679 | area=0.8327 delay=0.9031 MAPE_mean=20.53% | area=21.41% delay=19.64%
+  VAL   mse=11077167.000000 R2_mean=0.8670 | area=0.8310 delay=0.9030 MAPE_mean=20.68% | area=21.49% delay=19.88%
+[Epoch 0011] train_loss(norm)=0.799234  avgR2(train+val)/2=0.721564
+  TRAIN mse=11736450.000000 R2_mean=0.7233 | area=0.5399 delay=0.9066 MAPE_mean=13.75% | area=13.47% delay=14.02%
+  VAL   mse=11945285.000000 R2_mean=0.7199 | area=0.5356 delay=0.9042 MAPE_mean=13.90% | area=13.36% delay=14.45%
+[Epoch 0012] train_loss(norm)=1.161685  avgR2(train+val)/2=0.738412
+  TRAIN mse=19659616.000000 R2_mean=0.7432 | area=0.6556 delay=0.8308 MAPE_mean=81.12% | area=58.31% delay=103.93%
+  VAL   mse=20049334.000000 R2_mean=0.7336 | area=0.6412 delay=0.8261 MAPE_mean=81.43% | area=58.50% delay=104.37%
+[Epoch 0013] train_loss(norm)=1.634813  avgR2(train+val)/2=0.714272
+  TRAIN mse=37675044.000000 R2_mean=0.7204 | area=0.7779 delay=0.6628 MAPE_mean=35.44% | area=17.72% delay=53.16%
+  VAL   mse=38034184.000000 R2_mean=0.7082 | area=0.7600 delay=0.6564 MAPE_mean=35.30% | area=17.64% delay=52.97%
+[Epoch 0014] train_loss(norm)=0.751646  avgR2(train+val)/2=0.731199
+  TRAIN mse=26408690.000000 R2_mean=0.7307 | area=0.6932 delay=0.7681 MAPE_mean=81.39% | area=144.24% delay=18.54%
+  VAL   mse=26051812.000000 R2_mean=0.7317 | area=0.6944 delay=0.7690 MAPE_mean=81.78% | area=144.76% delay=18.79%
+[Epoch 0015] train_loss(norm)=0.676010  avgR2(train+val)/2=0.410447
+  TRAIN mse=105519144.000000 R2_mean=0.4114 | area=0.7794 delay=0.0435 MAPE_mean=35.84% | area=39.73% delay=31.94%
+  VAL   mse=104391248.000000 R2_mean=0.4095 | area=0.7754 delay=0.0435 MAPE_mean=35.80% | area=39.82% delay=31.78%
+[Epoch 0016] train_loss(norm)=0.732729  avgR2(train+val)/2=0.753153
+  TRAIN mse=20684766.000000 R2_mean=0.7500 | area=0.6792 delay=0.8208 MAPE_mean=37.64% | area=58.71% delay=16.56%
+  VAL   mse=21049430.000000 R2_mean=0.7563 | area=0.6975 delay=0.8151 MAPE_mean=37.59% | area=58.30% delay=16.89%
+[Epoch 0017] train_loss(norm)=0.685061  avgR2(train+val)/2=0.808530
+  TRAIN mse=5660863.500000 R2_mean=0.8142 | area=0.6703 delay=0.9581 MAPE_mean=36.04% | area=59.65% delay=12.43%
+  VAL   mse=6439341.000000 R2_mean=0.8028 | area=0.6544 delay=0.9513 MAPE_mean=35.62% | area=58.53% delay=12.70%
+[Epoch 0018] train_loss(norm)=0.796660  avgR2(train+val)/2=0.785848
+  TRAIN mse=32187114.000000 R2_mean=0.7867 | area=0.8632 delay=0.7103 MAPE_mean=22.70% | area=23.29% delay=22.10%
+  VAL   mse=32026794.000000 R2_mean=0.7850 | area=0.8612 delay=0.7087 MAPE_mean=22.56% | area=22.08% delay=23.05%
+[Epoch 0019] train_loss(norm)=0.758962  avgR2(train+val)/2=0.723651
+  TRAIN mse=38500572.000000 R2_mean=0.7256 | area=0.7965 delay=0.6547 MAPE_mean=30.49% | area=20.09% delay=40.90%
+  VAL   mse=38325616.000000 R2_mean=0.7217 | area=0.7907 delay=0.6528 MAPE_mean=30.15% | area=20.80% delay=39.50%
+[Epoch 0020] train_loss(norm)=0.739018  avgR2(train+val)/2=0.816151
+  TRAIN mse=8372996.000000 R2_mean=0.8186 | area=0.7048 delay=0.9324 MAPE_mean=81.58% | area=146.36% delay=16.80%
+  VAL   mse=9784475.000000 R2_mean=0.8137 | area=0.7087 delay=0.9187 MAPE_mean=81.76% | area=146.15% delay=17.37%
+[Epoch 0021] train_loss(norm)=1.061919  avgR2(train+val)/2=0.939441
+  TRAIN mse=5047849.500000 R2_mean=0.9401 | area=0.9240 delay=0.9562 MAPE_mean=13.24% | area=14.15% delay=12.33%
+  VAL   mse=4717539.500000 R2_mean=0.9388 | area=0.9186 delay=0.9590 MAPE_mean=13.27% | area=14.09% delay=12.45%
+  -> save best: ./ckpt/best_r2_vtr_abcd_epfl_iscas_area_delay.pt (best_avgR2=0.939441)
+[Epoch 0022] train_loss(norm)=0.681315  avgR2(train+val)/2=0.838564
+  TRAIN mse=24433722.000000 R2_mean=0.8385 | area=0.8969 delay=0.7801 MAPE_mean=13.50% | area=13.51% delay=13.49%
+  VAL   mse=24284782.000000 R2_mean=0.8386 | area=0.8982 delay=0.7790 MAPE_mean=13.29% | area=12.75% delay=13.83%
+[Epoch 0023] train_loss(norm)=0.627407  avgR2(train+val)/2=0.757017
+  TRAIN mse=28775458.000000 R2_mean=0.7566 | area=0.7689 delay=0.7443 MAPE_mean=19.34% | area=15.80% delay=22.88%
+  VAL   mse=27367868.000000 R2_mean=0.7575 | area=0.7601 delay=0.7549 MAPE_mean=19.28% | area=15.85% delay=22.71%
+[Epoch 0024] train_loss(norm)=0.964747  avgR2(train+val)/2=0.569113
+  TRAIN mse=26408128.000000 R2_mean=0.5702 | area=0.3624 delay=0.7780 MAPE_mean=15.07% | area=17.34% delay=12.79%
+  VAL   mse=29309602.000000 R2_mean=0.5680 | area=0.3876 delay=0.7485 MAPE_mean=15.90% | area=17.21% delay=14.59%
+[Epoch 0025] train_loss(norm)=0.821345  avgR2(train+val)/2=0.700114
+  TRAIN mse=25722184.000000 R2_mean=0.6980 | area=0.6195 delay=0.7766 MAPE_mean=25.23% | area=37.74% delay=12.71%
+  VAL   mse=23227402.000000 R2_mean=0.7022 | area=0.6065 delay=0.7978 MAPE_mean=25.57% | area=38.50% delay=12.63%
+[Epoch 0026] train_loss(norm)=1.268243  avgR2(train+val)/2=0.376697
+  TRAIN mse=100504088.000000 R2_mean=0.3756 | area=0.6582 delay=0.0929 MAPE_mean=20.33% | area=16.22% delay=24.44%
+  VAL   mse=96729736.000000 R2_mean=0.3778 | area=0.6372 delay=0.1185 MAPE_mean=20.63% | area=16.22% delay=25.05%
+[Epoch 0027] train_loss(norm)=0.698000  avgR2(train+val)/2=0.617575
+  TRAIN mse=32674672.000000 R2_mean=0.6169 | area=0.5177 delay=0.7161 MAPE_mean=23.70% | area=31.53% delay=15.87%
+  VAL   mse=31396522.000000 R2_mean=0.6182 | area=0.5111 delay=0.7254 MAPE_mean=23.85% | area=31.96% delay=15.73%
+[Epoch 0028] train_loss(norm)=0.616334  avgR2(train+val)/2=0.763618
+  TRAIN mse=3625866.000000 R2_mean=0.7706 | area=0.5612 delay=0.9800 MAPE_mean=17.98% | area=19.37% delay=16.59%
+  VAL   mse=3903617.250000 R2_mean=0.7567 | area=0.5349 delay=0.9784 MAPE_mean=18.33% | area=19.33% delay=17.33%
+[Epoch 0029] train_loss(norm)=0.702462  avgR2(train+val)/2=0.646659
+  TRAIN mse=51724296.000000 R2_mean=0.6522 | area=0.7697 delay=0.5348 MAPE_mean=15.33% | area=18.43% delay=12.24%
+  VAL   mse=51949416.000000 R2_mean=0.6411 | area=0.7540 delay=0.5282 MAPE_mean=15.64% | area=18.36% delay=12.92%
+[Epoch 0030] train_loss(norm)=0.599226  avgR2(train+val)/2=0.791084
+  TRAIN mse=13595013.000000 R2_mean=0.7954 | area=0.7061 delay=0.8847 MAPE_mean=24.35% | area=35.88% delay=12.82%
+  VAL   mse=13641155.000000 R2_mean=0.7868 | area=0.6898 delay=0.8837 MAPE_mean=23.04% | area=32.85% delay=13.24%
+[Epoch 0031] train_loss(norm)=1.351995  avgR2(train+val)/2=0.491518
+  TRAIN mse=98076816.000000 R2_mean=0.4919 | area=0.8753 delay=0.1086 MAPE_mean=16.99% | area=19.77% delay=14.21%
+  VAL   mse=95909128.000000 R2_mean=0.4911 | area=0.8632 delay=0.1190 MAPE_mean=16.58% | area=18.72% delay=14.44%
+[Epoch 0032] train_loss(norm)=0.620544  avgR2(train+val)/2=0.806185
+  TRAIN mse=4345464.000000 R2_mean=0.8180 | area=0.6658 delay=0.9703 MAPE_mean=13.96% | area=16.94% delay=10.97%
+  VAL   mse=5615040.500000 R2_mean=0.7943 | area=0.6290 delay=0.9597 MAPE_mean=13.63% | area=15.73% delay=11.53%
+[Epoch 0033] train_loss(norm)=0.651516  avgR2(train+val)/2=0.601491
+  TRAIN mse=85893648.000000 R2_mean=0.5824 | area=0.9472 delay=0.2176 MAPE_mean=17.80% | area=15.56% delay=20.03%
+  VAL   mse=77244624.000000 R2_mean=0.6206 | area=0.9526 delay=0.2885 MAPE_mean=16.43% | area=15.12% delay=17.74%
+[Epoch 0034] train_loss(norm)=0.906948  avgR2(train+val)/2=0.558337
+  TRAIN mse=93861016.000000 R2_mean=0.5410 | area=0.9367 delay=0.1452 MAPE_mean=14.46% | area=11.30% delay=17.61%
+  VAL   mse=86234608.000000 R2_mean=0.5757 | area=0.9457 delay=0.2058 MAPE_mean=14.15% | area=10.85% delay=17.45%
+[Epoch 0035] train_loss(norm)=0.619540  avgR2(train+val)/2=0.851214
+  TRAIN mse=11884833.000000 R2_mean=0.8590 | area=0.8212 delay=0.8969 MAPE_mean=14.96% | area=16.70% delay=13.23%
+  VAL   mse=13479715.000000 R2_mean=0.8434 | area=0.8052 delay=0.8816 MAPE_mean=14.65% | area=16.57% delay=12.73%
+[Epoch 0036] train_loss(norm)=2.557820  avgR2(train+val)/2=0.471811
+  TRAIN mse=98054416.000000 R2_mean=0.4574 | area=0.8039 delay=0.1109 MAPE_mean=16.20% | area=17.00% delay=15.39%
+  VAL   mse=89738160.000000 R2_mean=0.4862 | area=0.7943 delay=0.1781 MAPE_mean=16.12% | area=16.86% delay=15.38%
+[Epoch 0037] train_loss(norm)=0.925548  avgR2(train+val)/2=0.841736
+  TRAIN mse=19954848.000000 R2_mean=0.8408 | area=0.8596 delay=0.8221 MAPE_mean=12.02% | area=11.30% delay=12.75%
+  VAL   mse=17787356.000000 R2_mean=0.8427 | area=0.8447 delay=0.8407 MAPE_mean=11.36% | area=11.35% delay=11.38%
+[Epoch 0038] train_loss(norm)=1.313403  avgR2(train+val)/2=0.876374
+  TRAIN mse=7359810.500000 R2_mean=0.8722 | area=0.8058 delay=0.9386 MAPE_mean=16.49% | area=18.82% delay=14.15%
+  VAL   mse=7282570.500000 R2_mean=0.8805 | area=0.8228 delay=0.9383 MAPE_mean=16.06% | area=17.88% delay=14.24%
+[Epoch 0039] train_loss(norm)=0.620623  avgR2(train+val)/2=0.771084
+  TRAIN mse=22801148.000000 R2_mean=0.7786 | area=0.7580 delay=0.7991 MAPE_mean=11.64% | area=12.97% delay=10.31%
+  VAL   mse=24298736.000000 R2_mean=0.7636 | area=0.7435 delay=0.7837 MAPE_mean=11.89% | area=13.02% delay=10.76%
+[Epoch 0040] train_loss(norm)=0.758240  avgR2(train+val)/2=0.877103
+  TRAIN mse=19181690.000000 R2_mean=0.8775 | area=0.9279 delay=0.8271 MAPE_mean=17.48% | area=17.98% delay=16.98%
+  VAL   mse=19795062.000000 R2_mean=0.8767 | area=0.9341 delay=0.8193 MAPE_mean=17.79% | area=18.17% delay=17.41%
+[Epoch 0041] train_loss(norm)=0.590314  avgR2(train+val)/2=0.840174
+  TRAIN mse=7375984.500000 R2_mean=0.8362 | area=0.7318 delay=0.9407 MAPE_mean=28.70% | area=26.28% delay=31.13%
+  VAL   mse=7210506.500000 R2_mean=0.8441 | area=0.7470 delay=0.9413 MAPE_mean=28.85% | area=26.85% delay=30.86%
+
+[EARLY STOP] No avgR2 improvement for 20 epochs.
+Best epoch=21, best_avgR2=0.939441
+
+======================================================================
+[FINAL] Loading best checkpoint and evaluating on TEST ...
+[BEST] epoch=21  best_avgR2=0.939441
+[TEST] mse=5072123.000000  R2_mean=0.9393  MAPE_mean=13.26%
+  area: R2=0.9227  MAPE=14.15%  MAE=216.108658
+  delay: R2=0.9558  MAPE=12.36%  MAE=410.010376
+======================================================================
